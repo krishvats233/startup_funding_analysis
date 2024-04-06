@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62e67d61-b1d3-4d8d-9cd0-1f008c00c19f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/startup_funding_analysis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/startup_funding_analysis.iml" afterDir="false" />
+    <list default="true" id="62e67d61-b1d3-4d8d-9cd0-1f008c00c19f" name="Changes" comment="A lot of data added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +62,19 @@
       <option name="presentableId" value="Default" />
       <updated>1711831116719</updated>
     </task>
+    <task id="LOCAL-00001" summary="A lot of data added">
+      <option name="closed" value="true" />
+      <created>1712400400377</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712400400377</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="A lot of data added" />
+    <option name="LAST_COMMIT_MESSAGE" value="A lot of data added" />
   </component>
 </project>
